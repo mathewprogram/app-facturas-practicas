@@ -1,14 +1,14 @@
-01-002
+01-006
 2025-04-03
-Lavinia Matei
-112244574P
-665484512
-Maestro de los Maestros
+Miguel Mateo
+11223545E
+659874512
+Calle Dos de Dos
 Madrid
 Madrid
-10010
+28013
 facturasestructuradas@gmail.com
-Tablet
-Bizum
-100.01
-ES1242125412544451254
+Perfume Lancome
+TOTAL
+95.01
+No encontrado
